@@ -1,6 +1,4 @@
-#! python3
-
-noun = "dog"
+noun = "dog "
 verb = "barked"
 result  = noun + verb
 print(result)
