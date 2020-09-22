@@ -1,0 +1,74 @@
+{
+  "tests": [
+    {
+      "name": "Task 1",
+      "setup": "",
+      "run": "python3 task1.py",
+      "input": "",
+      "output": "dog barked",
+      "comparison": "included",
+      "timeout": 2,
+      "points": 1
+    },
+    {
+      "name": "Task 2",
+      "setup": "",
+      "run": "python3 task2.py",
+      "input": "",
+      "output": "dog\r\nbarked",
+      "comparison": "included",
+      "timeout": 2,
+      "points": 1
+    },
+    {
+      "name": "Task 3",
+      "setup": "",
+      "run": "python3 task3.py",
+      "input": "",
+      "output": "donutdonutdonutdonutdonut",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 1
+    },
+    {
+      "name": "Task 4",
+      "setup": "",
+      "run": "python3 task4.py",
+      "input": "",
+      "output": "This little piggy went to market.",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 1
+    },
+    {
+      "name": "Task 5",
+      "setup": "",
+      "run": "python3 task5.py",
+      "input": "",
+      "output": "here, kitty kitty kitty",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 1
+    },
+    {
+      "name": "Task6",
+      "setup": "",
+      "run": "python3 task6.py",
+      "input": "",
+      "output": "The future belongs to those who believe in the beauty of their dreams.",
+      "comparison": "included",
+      "timeout": 2,
+      "points": 1
+    },
+    {
+      "name": "Variables Check",
+      "setup": "sudo -H pip3 install pytest",
+      "run": "pytest",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 1
+    }
+  ]
+}
