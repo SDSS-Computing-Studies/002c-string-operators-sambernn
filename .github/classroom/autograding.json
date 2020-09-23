@@ -59,16 +59,6 @@
       "comparison": "included",
       "timeout": 2,
       "points": 1
-    },
-    {
-      "name": "Variables Check",
-      "setup": "sudo -H pip3 install pytest",
-      "run": "pytest",
-      "input": "",
-      "output": "",
-      "comparison": "included",
-      "timeout": 1,
-      "points": 1
     }
   ]
 }
